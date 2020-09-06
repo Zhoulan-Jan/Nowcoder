@@ -6,5 +6,5 @@ public class $1 {
         }
         return res;
     }
-    
+
 }
